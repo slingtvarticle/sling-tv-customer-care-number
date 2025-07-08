@@ -6,7 +6,7 @@ How Do I Find the Sling TV Customer Care Number?
    :caption: Contents:
 Need to contact Sling TV support? Here’s how to find the Sling TV customer care number, get quick help, and resolve your issues smoothly.
  
-.. image:: https://sling-tv-packages.readthedocs.io/en/latest/_images/help.jpg
+.. image:: help.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
